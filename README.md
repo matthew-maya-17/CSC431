@@ -1,4 +1,4 @@
-# CSC431
+# CSC431 - Final Project
 
 # Team Members
 Matthew Maya (Software Developer and Scrum Master)
