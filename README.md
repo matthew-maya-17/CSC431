@@ -12,4 +12,4 @@ The proposed application will solve the issue of unexpected waiting times when s
   <li>Nicholas Sosnivka (Software Developer)</li>
 </ul>
 
-This project was completed in satisfaction of the requirements for CSC431, Software Engineering, at the University of Miami in Spring 2022
+This project was completed in satisfaction of the requirements for CSC431, Introduction to Software Engineering, at the University of Miami in Spring 2022
