@@ -11,4 +11,5 @@ The proposed application will solve the issue of unexpected waiting times when s
   <li>David Mills (Software Developer)</li>
   <li>Nicholas Sosnivka (Software Developer)</li>
 </ul>
+
 This project was completed in satisfaction of the requirements for CSC431, Software Engineering, at the University of Miami in Spring 2022
